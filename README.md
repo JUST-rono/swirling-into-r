@@ -31,8 +31,8 @@ learning-r-with-swirl/
 | 3 | Sequences of Numbers | ✅ Done | |
 | 4 | Vectors | ✅ Done | |
 | 5 | Missing Values | ✅ Done | |
-| 6 | Subsetting Vectors | ⬜ Pending | |
-| 7 | Matrices and Data Frames | ⬜ Pending | |
+| 6 | Subsetting Vectors | ✅ Done | |
+| 7 | Matrices and Data Frames | ✅ Done | |
 | 8 | Logic | ⬜ Pending | |
 | 9 | Functions | ⬜ Pending | |
 | 10 | lapply and sapply | ⬜ Pending | |
