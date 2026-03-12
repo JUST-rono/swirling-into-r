@@ -24,23 +24,23 @@ learning-r-with-swirl/
 
 ## ✅ Progress Tracker
 
-| # | Lesson | Status | Date Completed |
-|---|--------|--------|----------------|
-| 1 | Basic Building Blocks | ✅ Done | |
-| 2 | Workspace and Files | ✅ Done | |
-| 3 | Sequences of Numbers | ✅ Done | |
-| 4 | Vectors | ✅ Done | |
-| 5 | Missing Values | ✅ Done | |
-| 6 | Subsetting Vectors | ✅ Done | |
-| 7 | Matrices and Data Frames | ✅ Done | |
-| 8 | Logic | ⬜ Pending | |
-| 9 | Functions | ⬜ Pending | |
-| 10 | lapply and sapply | ⬜ Pending | |
-| 11 | vapply and tapply | ⬜ Pending | |
-| 12 | Looking at Data | ⬜ Pending | |
-| 13 | Simulation | ⬜ Pending | |
-| 14 | Dates and Times | ⬜ Pending | |
-| 15 | Base Graphics | ⬜ Pending | |
+| # | Lesson | Status |
+|---|--------|--------|
+| 1 | Basic Building Blocks | ✅ Done |
+| 2 | Workspace and Files | ✅ Done |
+| 3 | Sequences of Numbers | ✅ Done |
+| 4 | Vectors | ✅ Done |
+| 5 | Missing Values | ✅ Done |
+| 6 | Subsetting Vectors | ✅ Done |
+| 7 | Matrices and Data Frames | ✅ Done |
+| 8 | Logic | ⬜ Pending |
+| 9 | Functions | ⬜ Pending |
+| 10 | lapply and sapply | ⬜ Pending |
+| 11 | vapply and tapply | ⬜ Pending |
+| 12 | Looking at Data | ⬜ Pending |
+| 13 | Simulation | ⬜ Pending |
+| 14 | Dates and Times | ⬜ Pending |
+| 15 | Base Graphics | ⬜ Pending |
 
 ---
 
